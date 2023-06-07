@@ -28,7 +28,7 @@ Pages: It consists of different pages that gives information about Thalassemia,S
 
 The Projects uses Azure Static Web App Service to host the information portal and Azure Bot Service to create a Thalassemia Bot with a knowledge based consisting of thalassemia related QnA acquired through the custom question n answering service for the language resource.
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.

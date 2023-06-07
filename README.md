@@ -8,7 +8,7 @@ The Thalassemia Information Portal is a comprehensive online platform dedicated 
 
 **Project Link(Github Repository URL)** - https://github.com/Sampath-Vatsavaya/thalassemia.git  <br>
 **Project Demo URL** - https://kind-glacier-07ce87900.3.azurestaticapps.net/  <br>
-**project demo video link** - 
+**project demo video link** - https://youtu.be/8IKtZ0TWsQU
 
 ## Azure technologies used for Project
 

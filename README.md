@@ -3,7 +3,7 @@
 
 The Thalassemia Information Portal is a comprehensive online platform dedicated to providing accurate and up-to-date information about Thalassemia, a genetic blood disorder. This user-friendly website serves as a centralized hub for individuals, healthcare professionals, and communities seeking reliable resources related to Thalassemia.The portal offers a wealth of information, including an overview of Thalassemia, its subtypes, symptoms, diagnostic methods, treatment options, ongoing research, and advancements in the field. The content is sourced from reputable medical sources, ensuring its accuracy and credibility.It is a Web based application developed for Thalassemia related information and FAQs realted website in India.
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This Web  Bbased Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link(Github Repository URL)** - https://github.com/Sampath-Vatsavaya/thalassemia.git  <br>

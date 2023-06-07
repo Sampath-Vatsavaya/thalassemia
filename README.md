@@ -74,3 +74,9 @@ The Projects uses Azure Static Web App Service to host the information portal an
 - CSS
 - Bootstrap
 - JavaScript
+
+## Team Members
+### Vatsavaya Sampath
+### Gullapudi Sai Pramod
+### Vedulla Varshini
+### Soothi Sriram

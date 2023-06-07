@@ -35,33 +35,35 @@ The Projects uses Azure Static Web App Service to host the information portal an
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, Thalassemia ,Sickle Cell, Gallery, IRCS and Thalassemia related information etc.
 - User can acquire knowledge about Thalassemia and SCA through this website.
-- It has an ThalassemiaBot to Interact with user and clarify their doubts
+- It has a ThalassemiaBot to Interact with user and clarify their doubts
 
 ## Screenshots
 
-![Screenshot 2022-11-04 182924](https://user-images.githubusercontent.com/116783215/199978305-c83e5671-1656-437e-91a8-b030278a7fe8.png)
+
+![home](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/c2cc4406-59ca-434a-97fc-186da5f7431a)
 
 
 
    
 
-### About Us -
+### Thalassemia -
+![thalassemia](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/68acb864-0fb3-4503-9bbb-fb6c6012a43d)
 
 
 
-### Services -
+### Sickle Cell -
+![sicklecell](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/630f06ef-94ba-4723-931c-623be7201aca)
 
 
 
-### Contact us -
+### Diagnosis and Treatments -
 
+![diagnosis](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/f0a18d92-2732-4dc6-b1c0-2df2a94c86c6)
 
 
 ### ThalassemiaBot
 
-
-
-
+![ThalassemiaBot](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/cf05b4cd-1f7e-4cc8-9217-29f09e01a278)
 
 
 
